@@ -1,0 +1,1 @@
+python PySparkJob1.py --flights_path=/Users/ola/PycharmProjects/spark/homework/data/flights.parquet --result_path=output
